@@ -1,0 +1,10 @@
+Downloading Data...
+Data Downloaded Successfully.....
+##############################
+>>>number# 11 failed. Please insert manually. Its id is SC5021XXYLAD01BEV
+378  Cars have been downloaded. 
+
+***Attention***:
+First car in each section is ommited for simplicity.
+If you want these two infos, please insert the imformation manually.
+Done. Please find the excel in the folder where this program is located
